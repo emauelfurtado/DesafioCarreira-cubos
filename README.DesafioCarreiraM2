@@ -7,9 +7,9 @@
 - Tipos de Dados II
 - Gestão de tempo
 - Tipos utilitarios
+- Métodos de strings
 - 
 - Ética em tecnologia
-- Métodos de strings
 - Métodos de arrays
 
 ## OQUE EU JÁ SEI SOBRE OS ASSUNTOS QUE SERÃO ABORDADOS NESSE MÓDULOS?
@@ -18,9 +18,7 @@
 - Eles são formatos de informaçao que sao armazenados e manipulados dentro de um programa. 
 - Gestão de tempo diz sobre aproveitar meu tempo de uma forma inteligente e eficaz.
 - Basicamente sao ferramentas do TypeScript que nos ajudam a trabalhar e manipular os dados de uma forma mais objetiva e segura.
-
-- 
-- Métodos de strings são maneiras de manipular texto em programação.
+- Metodos de string, sao basicamente formas de se manipular strings utilizando os proprios codigos.
 
 ## O QUE EU QUERO APRENDER SOBRE OS ASSUNTOS QUE SERAO ABORDADOS NESSE MODULO?
 
@@ -28,8 +26,7 @@
 - conhecer mais tipos de dados, como e quando utiliza-los.
 - Gostaria de aprender como posso ter uma melhor gestao do meu tempo, para garantir que eu seja mais eficaz e produtivo, mas sem passar dos meus limites.
 - Gostaria de aprender novos tipos utilitarios e como posso usa-los de uma forma eficiente.
-
--
+-   Gostaria de aprender metodos de string que iram me ajudar a manipular textos dentro dos meus codigos.
 
 ## MINHA EVOLUÇÃO: O QUE APRENDI SOBRE OS ASSSUNTOS QUE FORAMABORDADOS NESSE MÓDULO?
 
@@ -37,5 +34,4 @@
 - Aprendi sobre Type, Tipos literais, uniao de tipos, tuplas,tipos conjuntos,Type Narrowing,Type Assertion e unknow.
 - Aprendi como organizar melhor o meu tempo.
 - Aprendi novos tipos utilitarios, onde, como e quando utiliza-los em meus codigos.
-
-- 
+- Oque aprendi sobre os metodos apresentados: oque elez fazem, onde utiliza-los, como utiliza-los e quando.
